@@ -8,11 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tianming Gao / Personal Homepage"
+site_theme               : "default"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Tianming Gao"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : 
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Tianming Gao"
+  avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Qinhuangdao, China"
-  employer         : "Yanshan University"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "gtm@stumail.ysu.edu.cn/tianming.gao@unicas.it" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

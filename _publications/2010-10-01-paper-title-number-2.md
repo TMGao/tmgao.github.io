@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Teleoperation control of autonomous underwater vehicle toward human on the loop: needs, analyses, and solutions"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: July 2024
+venue: 'IEEE Systems, Man, and Cybernetics Magazine'
+paperurl: [https://ieeexplore.ieee.org/document/10592092]
+citation: 'J. Yan, T. Gao, X. Yang, C. Chen, and X. Guan, "Teleoperation control of autonomous underwater vehicle toward human on the loop: Needs, analyses, and solutions," IEEE Systems, Man, and Cybernetics Magazine, vol. 10, no. 3, pp. 2-13, July 2024'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The autonomous underwater vehicle (AUV) has been regarded as a rapidly deployable tool for in situ sensing and monitoring of marine activities. However, because of the harsh marine environment, full autonomy to fulfill complex marine tasks is still unreachable. In this context, a human operator can make up this deficiency by bringing his or her experience and intelligence to the closed-loop control system. For an underwater grasping task, this article develops an underwater teleoperation system toward human on the loop (HOTL), which mainly includes an AUV, a surface buoy, a human operator, and a communication network. With acoustic and Wi-Fi communications, the surface buoy plays the role of communication hub between the human operator and the AUV. Then, a learning-based teleoperation control strategy is designed to achieve the grasping task for the AUV. Field tests are presented to verify the effectiveness of our developed underwater teleoperation system. Nevertheless, the theoretical framework of the underwater teleoperation system is still in the construction phase, and the related research suffers from many urgent problems. For that reason, we discuss and provide future directions for implementation in the more complex marine environment.

@@ -13,8 +13,8 @@ title                    : "Tianming Gao / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Tianming Gao"
 description              : &description "PhD student from Yanshan University"
-url                      : "https://tianming.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://TMGao.github.io"
+baseurl                  : "/tianming.github.io"
 repository               : "TMGao/tianming.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +22,7 @@ repository               : "TMGao/tianming.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gtm.png"
+  avatar           : "/assets/images/gtm.png"
   name             : "Tianming Gao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"

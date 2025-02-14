@@ -7,21 +7,15 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
+      
+  - title: "Patents"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Honars & Awards"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Project"
     url: /markdown/

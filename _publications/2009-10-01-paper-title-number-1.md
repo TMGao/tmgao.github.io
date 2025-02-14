@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Teleoperation formation control of AUVs with state and input delays: A board learning-based solution"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+category: conference
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'T. Gao, J. Yan, X. Yang, and X. Guan. Teleoperation formation control of AUVs with state and input delays: A board learningbased
+solution. 3rd International Conference on Artificial Intelligence, Big Data and Algorithms, pp. 208-214, 2023.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Formation control of autonomous underwater vehicles is regarded as a promising way in situ sensing and monitoring of marine activities. However, due to the harsh marine environment, the full autonomy is still unreachable to fulfill complex marine tasks. This letter develops a teleoperation formation control system toward human-on-the-loop for AUVs. A board learning (BL) based estimator is first designed to estimate the real-time states of master operator and slave AUVs, through which the BL-based formation controller is developed to steer AUVs to keep specific formation shape. Compared with the previous works, the BL-based estimator can capture the real-time states even with time delays, and meanwhile the BL-based formation controller can achieve bilateral teleoperation without model parameters. Simulation results are conducted to verify our solution.

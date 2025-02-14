@@ -3,11 +3,9 @@ title: "Integrated target recognition and grasp control for the underwater vehic
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: #
 date: Oct. 2024
 venue: 'IEEE Transactions on Industrial Electronics'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: [https://ieeexplore.ieee.org/document/10433070]
 citation: 'T. Gao, J. Yan, X. Yang, C. Chen, and X. Guan, "Integrated Target Recognition and Grasp Control for the Underwater Vehicle–Manipulator System," *IEEE Transactions on Industrial Electronics*, vol. 71, no. 10, pp. 12732-12743, Oct. 2024.'
 ---
 

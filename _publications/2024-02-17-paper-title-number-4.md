@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 4"
+title: "Teleoperation system of autonomous underwater vehicle toward human-on-the-loop: design and implementation"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+paperurl: [https://ieeexplore.ieee.org/document/10256461]
+citation: 'T. Gao, J. Yan, X. Yang, C. Hua, and X. Guan, "Teleoperation System of Autonomous Underwater Vehicle Toward Human-on-the-Loop: Design and Implementation," 2023 IEEE 13th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), Qinhuangdao, China, 2023, pp. 142-147'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The autonomou underwater vehicle (AUV) is an essential tool for exploring the ocean. However, the harsh marine environment makes full autonomy control unable to perform complex tasks. This paper employs Human-on-the-Loop (HOTL) to design an underwater teleoperation system, mainly including master human operator, buoy, slave AUV and communication network. Based on this, an integral reinforcement learning (IRL) based teleoperation controller is developed, through which operator can remotely determine the motion of slave AUV via the master unit. Finally, simulation and experiments with different scenarios both verify the effectiveness of our solution.

@@ -1,5 +1,5 @@
 ---
-title: "Teleoperation control of autonomous underwater vehicle toward human on the loop: needs, analyses, and solutions"
+title: "2. Teleoperation control of autonomous underwater vehicle toward human on the loop: needs, analyses, and solutions"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2

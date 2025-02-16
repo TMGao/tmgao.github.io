@@ -1,7 +1,7 @@
 ---
 title: "Teleoperation formation control of AUVs with state and input delays: A board learning-based solution"
 collection: publications
-category: conference
+category: conferences
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

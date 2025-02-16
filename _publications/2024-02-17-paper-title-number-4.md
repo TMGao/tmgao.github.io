@@ -2,7 +2,8 @@
 title: "Teleoperation system of autonomous underwater vehicle toward human-on-the-loop: design and implementation"
 collection: publications
 category: conferences
-date: 2024-02-17
+date: 2023
+venue: 'IEEE 13th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)'
 paperurl: [https://ieeexplore.ieee.org/document/10256461]
 citation: 'T. Gao, J. Yan, X. Yang, C. Hua, and X. Guan, "Teleoperation System of Autonomous Underwater Vehicle Toward Human-on-the-Loop: Design and Implementation," 2023 IEEE 13th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), Qinhuangdao, China, 2023, pp. 142-147'
 ---

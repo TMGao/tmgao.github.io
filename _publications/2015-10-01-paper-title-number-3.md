@@ -1,5 +1,5 @@
 ---
-title: "1. Integrated target recognition and grasp control for the underwater vehicle–manipulator system"
+title: "Integrated target recognition and grasp control for the underwater vehicle–manipulator system"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3

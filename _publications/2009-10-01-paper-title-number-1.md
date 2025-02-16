@@ -4,8 +4,7 @@ collection: publications
 category: conferences
 date: 2023
 venue: '3rd International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA)'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: '[https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230811]'
 citation: 'T. Gao, J. Yan, X. Yang, and X. Guan. Teleoperation formation control of AUVs with state and input delays: A board learning-based
 solution. 3rd International Conference on Artificial Intelligence, Big Data and Algorithms, pp. 208-214, 2023.'
 ---

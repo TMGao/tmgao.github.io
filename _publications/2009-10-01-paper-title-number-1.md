@@ -2,11 +2,11 @@
 title: "Teleoperation formation control of AUVs with state and input delays: A board learning-based solution"
 collection: publications
 category: conferences
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2023
+venue: '3rd International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'T. Gao, J. Yan, X. Yang, and X. Guan. Teleoperation formation control of AUVs with state and input delays: A board learningbased
+citation: 'T. Gao, J. Yan, X. Yang, and X. Guan. Teleoperation formation control of AUVs with state and input delays: A board learning-based
 solution. 3rd International Conference on Artificial Intelligence, Big Data and Algorithms, pp. 208-214, 2023.'
 ---
 

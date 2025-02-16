@@ -1,5 +1,5 @@
 ---
-title: "1. Teleoperation system of autonomous underwater vehicle toward human-on-the-loop: design and implementation"
+title: "Teleoperation system of autonomous underwater vehicle toward human-on-the-loop: design and implementation"
 collection: publications
 category: conferences
 date: 2024-02-17

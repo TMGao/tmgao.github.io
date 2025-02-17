@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Tianming Gao / Personal Homepage"
+title                    : "Tianming Gao / Homepage"
 title_separator          : "-"
 name                     : &name "Tianming Gao"
 description              : &description "PhD student from Yanshan University"
@@ -25,7 +25,7 @@ author:
   avatar           : "gtm.png"
   name             : "Tianming Gao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #
   location         : "Qinhuangdao, China"
   employer         : "Yanshan University"
   uri              : # URL

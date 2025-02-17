@@ -1,1 +1,4 @@
-
+- path: images/robots/1.jpg
+  caption: "2021/05/09 I assembled the BlueROV2 for the first time and equipped it with a manipulator, successfully grabbing a hammer."
+- path: images/robots/2.jpg
+  caption: "2021/07/19 We modified it with a 8-thruster frame and added a manipulator gimbal and a binocular camera. With partners: J. Lin and L. Zhang. "

@@ -13,10 +13,10 @@ author_profile: true
   {% for image in site.static_files %}
     {% if image.path contains 'images/robots' %}
       <div class="gallery-item">
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="Robot Image" style="width: 500px; margin: 10px;">
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="Robot Image" style="width: 800px; margin: 10px;">
         <div class="caption">
           <!-- You can add your caption text here -->
-          This is a caption for the image.
+          2021/05/09 I assembled the BlueROV2 for the first time and equipped it with a manipulator, successfully grabbing a hammer.
         </div>
       </div>
     {% endif %}

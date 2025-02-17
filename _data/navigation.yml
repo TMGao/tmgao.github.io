@@ -14,8 +14,11 @@ main:
   - title: "Honars & Awards"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
   - title: "Project"
     url: /markdown/
+
+  - title: "With My Robots"
+    url: /teaching/
+
+    - title: "CV"
+    url: /cv/

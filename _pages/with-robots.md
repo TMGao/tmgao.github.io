@@ -10,16 +10,13 @@ author_profile: true
 <p>Here are some pictures of me with robots.</p>
 
 <div class="gallery">
-  {% for image in site.static_files %}
-    {% if image.path contains 'images/robots' %}
-      <div class="gallery-item">
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="Robot Image" style="width: 800px; margin: 10px;">
-        <div class="caption">
-          <!-- You can add your caption text here -->
-          2021/05/09 I assembled the BlueROV2 for the first time and equipped it with a manipulator, successfully grabbing a hammer.
-        </div>
+  {% for item in site.data.robots %}
+    <div class="gallery-item">
+      <img src="{{ site.baseurl }}/{{ item.path }}" alt="Robot Image" style="width: 800px; margin: 10px;">
+      <div class="caption">
+        {{ item.caption }}
       </div>
-    {% endif %}
+    </div>
   {% endfor %}
 </div>
 
@@ -50,4 +47,3 @@ author_profile: true
     color: #555;
   }
 </style>
-

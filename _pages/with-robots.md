@@ -9,9 +9,45 @@ author_profile: true
 
 <p>Here are some pictures of me with robots.</p>
 
-{% for image in site.static_files %}
-  {% if image.path contains 'images/robots' %}
-    <img src="{{ site.baseurl }}{{ image.path }}" alt="Robot Image" style="width: 300px; margin: 10px;">
-  {% endif %}
-{% endfor %}
+<div class="gallery">
+  {% for image in site.static_files %}
+    {% if image.path contains 'images/robots' %}
+      <div class="gallery-item">
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="Robot Image" class="gallery-image">
+        <div class="caption">
+          <!-- You can add your caption text here -->
+          This is a caption for the image.
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<style>
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .gallery-item {
+    width: 300px;
+    text-align: center;
+    margin: 10px;
+  }
+
+  .gallery-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .caption {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #555;
+  }
+</style>
 

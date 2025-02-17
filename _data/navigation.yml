@@ -17,8 +17,5 @@ main:
   - title: "Project"
     url: /markdown/
 
-  - title: "With My Robots"
-    url: /teaching/
-
-    - title: "CV"
+  - title: "CV"
     url: /cv/

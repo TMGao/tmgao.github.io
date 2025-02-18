@@ -3,4 +3,6 @@
 - path: images/robots/2.jpg
   caption: "2021/07/19 We modified it with an 8-thruster frame, along with a pan-tilt platform and a binocular camera. Partners: J. Lin and L. Zhang. "
 - path: images/robots/3.jpg
-  caption: "We added a homemade manipulator and two diving flashlights to it, and integrated target recognition algorithms. The first marine experiment was carried out on 2021/09/08. Partners: K. You, Liang. Zhang, and J. Lin."
+  caption: "We added a homemade manipulator and two diving flashlights to it, and integrated target recognition algorithms. The first marine experiment was carried out on 2021/09/08. Partners: K. You, L. Zhang, and J. Lin."
+- path: images/robots/4.jpg
+  caption: "2021/09/24 URPC2021 in Jinshitan, Dalian. Our Yanxiang robot successfully completed the grasping and line patrol operations."

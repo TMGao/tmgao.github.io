@@ -11,4 +11,6 @@
 - path: images/robots/6.jpg
   caption: "2022/03/27. We have equipped ROVs with expandable frames to carry hydroacoustic device. Partners: W. Cao, J. Lin and L. Zhang."
 - path: images/robots/7.jpg
-  caption: "From 2022/08/24 to 2022/10/11, we constructed a medium size ROV Yanxiang v2 for URPC2022, which is equipped with a 5-DOF manipulator from Blueprint. Partners: L. Zhang, J. Lin and Y. Liu."
+  caption: "From 2022/08/24 to 2022/10/11, we constructed a medium size ROV Yanxiang v2 for URPC2022, which is equipped with a 5-DOF manipulator from Blueprint. Partners: L. Zhang, J. Lin, and Y. Liu."
+- path: images/robots/8.jpg
+  caption: "2022/11/19 I tested a simple underwater teleoperation system, where SBL system was used for self-localization of underwater vehicle. Terrestrial transmission was completed a aerial image transmission by SIYI."

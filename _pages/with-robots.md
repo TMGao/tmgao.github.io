@@ -7,7 +7,7 @@ author_profile: true
 
 <h1>With Robots</h1>
 
-<p>Here are some pictures of me with robots.</p>
+<p>To be continued... </p>
 
 <div class="gallery">
   {% for item in site.data.robots %}

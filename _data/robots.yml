@@ -11,10 +11,13 @@
 - path: images/robots/6.jpg
   caption: "2022/03/27. We have equipped ROVs with expandable frames to carry hydroacoustic device. Partners: W. Cao, J. Lin and L. Zhang."
 - path: images/robots/7.jpg
-  caption: "From 2022/08/24 to 2022/10/11, we constructed a medium size ROV Yanxiang v2 for URPC2022, which is equipped with a 5-DOF manipulator from Blueprint. Partners: L. Zhang, J. Lin, and Y. Liu."
+  caption: "From 2022/08/24 to 2022/10/11, we constructed a medium size ROV Yanxiang II for URPC2022, which is equipped with a 5-DOF manipulator from Blueprint. Partners: L. Zhang, J. Lin, and Y. Liu."
 - path: images/robots/8.jpg
   caption: "2022/11/19 I tested a simple underwater teleoperation system, where SBL system was used for self-localization of underwater vehicle. Terrestrial transmission was completed a aerial image transmission by SIYI."
 - path: images/robots/9.jpg
   caption: "2023/03/09 System Upgrade. We achieved cross-sea remote control of underwater vehicle. Partners: H. Wang, Q. Yang, and T. Zhang."
 - path: images/robots/10.jpg
   caption: "2023/04/09 A teleoperation formation control experiment in the lake. Partners: H. Wang and M. Yi."
+- path: images/robots/11.jpg
+  caption: "Use Yanxiang II to recognize and grasp underwater light beacon. The experiment was finally conducted in the Bohai Sea from July 2023 to Oct. 2023."
+  

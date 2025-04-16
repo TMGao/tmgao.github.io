@@ -11,6 +11,7 @@ redirect_from:
 * Underwater target detection technology via the integration design of sensing, transmission and control.
 * DAMPS - Distributed Autonomous Mobile Passive Sonar system.
 * Research on localization and grasping control of underwater network system with cross-domain collaboration between marine and aerial vehicles.
+* MAXFISH: Multi agents systems and Max-Plus algebra theoretical frameworks for a robot-fish shoal modelling and control.
 
 
 

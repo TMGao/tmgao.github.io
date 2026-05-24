@@ -8,4 +8,11 @@ redirect_from:
 ---
 
 I received the B.Eng. in Automation from Liaoning Technical University, Huludao, China, in 2020. In 2026, I received the Ph.D. degree in **Control Science and Engineering** from Yanshan University, Qinhuangdao, China, under the supervision of Prof. [Jing Yan](https://web.ysu.edu.cn/YJ3/zh_CN/index.htm) at the YSO Lab. 
-I was a visiting Ph.D. student at the **Department of Electrical and Information Engineering at the University of Cassino and Southern Lazio** in 2024-2025 and currently serves as a Postdoctoral Fellow at the same institution in Cassino, Italy, under the supervision of Prof. [Gianluca Antonelli](https://sites.google.com/unicas.it/gianluca-antonelli) at the [LAI Lab](https://lairobotics.unicas.it/home). My current research interests include **Underwater Vehicle-Manipulator System (UVMS)**, **underwater intervention**, and **acoustic tracking of underwater targets**.
+I was a visiting Ph.D. student at the **Department of Electrical and Information Engineering at the University of Cassino and Southern Lazio** in 2024-2025 and currently serve as a Postdoctoral Fellow at the same institution in Cassino, Italy, under the supervision of Prof. [Gianluca Antonelli](https://sites.google.com/unicas.it/gianluca-antonelli) at the [LAI Lab](https://lairobotics.unicas.it/home). My current research interests include **Underwater Vehicle-Manipulator Systems (UVMSs)**, **underwater robotic intervention**, and **acoustic tracking of underwater targets**.
+
+## Recent Updates
+
+- **May 2026**: Glad to share our recent work,  
+  *“Bearing-Only Tracking of Underwater Multiple Acoustic Sources Using Underwater Vehicles Under Latency and Packet Loss”*,  
+  published in *IEEE Transactions on Industrial Electronics (Early Access)*.  
+  [Paper Link](https://ieeexplore.ieee.org/document/11533585)
